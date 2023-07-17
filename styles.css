@@ -1,0 +1,107 @@
+@charset "utf-8";
+.container-fluid {
+    background-color: #FBF0F0;
+    background-image: -webkit-linear-gradient(270deg,rgba(24,0,0,0.47) 0%,rgba(255,230,230,1.00) 45.95%,rgba(255,230,230,1.00) 53.54%,rgba(255,230,230,1.00) 53.54%,rgba(215,189,189,1.00) 75.99%,rgba(202,167,167,1.00) 100%);
+    background-image: -moz-linear-gradient(270deg,rgba(24,0,0,0.47) 0%,rgba(255,230,230,1.00) 45.95%,rgba(255,230,230,1.00) 53.54%,rgba(255,230,230,1.00) 53.54%,rgba(215,189,189,1.00) 75.99%,rgba(202,167,167,1.00) 100%);
+    background-image: -o-linear-gradient(270deg,rgba(24,0,0,0.47) 0%,rgba(255,230,230,1.00) 45.95%,rgba(255,230,230,1.00) 53.54%,rgba(255,230,230,1.00) 53.54%,rgba(215,189,189,1.00) 75.99%,rgba(202,167,167,1.00) 100%);
+    background-image: linear-gradient(180deg,rgba(24,0,0,0.47) 0%,rgba(255,230,230,1.00) 45.95%,rgba(255,230,230,1.00) 53.54%,rgba(255,230,230,1.00) 53.54%,rgba(215,189,189,1.00) 75.99%,rgba(202,167,167,1.00) 100%);
+}
+.container-fluid .navbar.navbar-expand-lg.navbar-light.bg-light {
+    background-color: #E4D2D3;
+    background-image: -webkit-linear-gradient(270deg,rgba(247,228,229,1.00) 0%,rgba(192,170,170,1.00) 100%);
+    background-image: -moz-linear-gradient(270deg,rgba(247,228,229,1.00) 0%,rgba(192,170,170,1.00) 100%);
+    background-image: -o-linear-gradient(270deg,rgba(247,228,229,1.00) 0%,rgba(192,170,170,1.00) 100%);
+    background-image: linear-gradient(180deg,rgba(247,228,229,1.00) 0%,rgba(192,170,170,1.00) 100%);
+}
+.container-fluid #carouselExampleIndicators1 {
+    background-color: #F7EDEE;
+}
+
+.navbar-nav.mr-auto .nav-item .nav-link {
+    color: #3D0607;
+    background-color: #F1D8D9;
+}
+.card.col-md-12 .card-body .btn.btn-primary {
+    background-color: #915F60;
+    font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+    font-style: italic;
+    border: thin outset #4A0F10;
+}
+.container-fluid .text-center {
+    font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+    font-style: normal;
+}
+.container-fluid .navbar.navbar-expand-lg.navbar-light.bg-light {
+    font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
+    background-color: #F7ECEC;
+}
+.container-fluid #accordion1 {
+    font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
+    color: #550F10;
+    background-color: #D9ACAD;
+}
+#accordion1 .card #headingOne1 {
+    background-color: #B17B7C;
+    font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+    color: #1B0202;
+}
+.card #collapseOne1 .card-body {
+    font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+}
+#accordion1 .card #headingTwo1 {
+    color: #1B7B7C;
+    font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
+    background-color: #b17B7C;
+}
+
+
+
+
+#headingOne1 .mb-0 a {
+    color: #400304;
+    font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
+}
+.card #headingThree1 .mb-0 {
+    color: #360304;
+    font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
+    background-color: #FFFFFF;
+}
+#headingThree1 .mb-0 .collapsed {
+    color: #512020;
+}
+#headingThree1 .mb-0 .collapsed {
+    background-color: #B17B7C;
+}
+#headingThree1 .mb-0 .collapsed {
+    background-color: #B17B7C;
+}
+
+
+#accordion1 .card #headingThree1 {
+    background-color: #b17B7C;
+    color: #B17B7C;
+}
+#accordion1 .card #headingThree1 {
+    background-color: #B17B7C;
+}
+
+
+#headingTwo1 .mb-0 .collapsed {
+    color: #512020;
+}
+
+
+.card #collapseThree1 .card-body {
+    font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+}
+.card #collapseTwo1 .card-body {
+    font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+}
+#navbarSupportedContent1 .form-inline.my-2.my-lg-0 .btn.btn-outline-success.my-2.my-sm-0 {
+    background-color: #652B2C;
+    color: #E4CCCD;
+    border-color: #420506;
+}
+.card.col-md-12 .card-body .btn.btn-primary {
+    color: #FFFFFF;
+}
